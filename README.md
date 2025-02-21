@@ -60,6 +60,9 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
+cd frontend
+npm install
+
 ### `requirements.txt` (Included in the repository)
 
 ```txt
